@@ -17,5 +17,8 @@ img{
 
 a{
     text-decoration: none;
+
+}
+:target{
     text-align: center;
 }
