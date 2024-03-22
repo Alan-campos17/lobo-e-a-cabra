@@ -17,8 +17,8 @@ img{
 
 a{
     text-decoration: none;
-
-}
-:target{
     text-align: center;
+    width: 20%;
+    display: block;
+    margin: auto;
 }
